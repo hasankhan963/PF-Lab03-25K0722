@@ -1,6 +1,6 @@
 # PF-Lab03
-# heading 2
-## heading 3
+## heading 2
+### heading 3
 
 This is lab 02
 <br/>
@@ -15,6 +15,9 @@ _this is italic_
 <br/>
 1. ordered list
 2. ordered list2
+
+<br/>
+
   
 
  
