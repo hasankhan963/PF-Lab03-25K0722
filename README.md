@@ -5,6 +5,7 @@
 This is lab 02
 <br/>
 we studied github
+<br/>
 **this is bold**
 <br/>
 _this is italic_
